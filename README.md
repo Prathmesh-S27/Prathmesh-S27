@@ -23,15 +23,16 @@
 
 ### 🚀 About Me
 
-🔹 **Name**: Prathmesh Sonawane  
-🔹 **Role**: Software Engineer | Researcher | Tech Enthusiast  
-🔹 **Education**: B.Tech in Information Technology @ Vishwakarma Institute of Technology, Pune  
-🔹 **CGPA**: 7.9 / 10  
-🔹 **Passions**:  
-&nbsp;&nbsp;&nbsp;&nbsp;💡 Artificial Intelligence  
-&nbsp;&nbsp;&nbsp;&nbsp;🔗 Blockchain  
-&nbsp;&nbsp;&nbsp;&nbsp;👁️ Computer Vision  
-&nbsp;&nbsp;&nbsp;&nbsp;☁️ Cloud & DevOps
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=450&lines=Curious+Mind+|+Code+Architect+|+Cloud+Dreamer" />
+
+🎓 <b>Final-year B.Tech IT Student</b> @ Vishwakarma Institute of Technology, Pune <br/>
+💻 <b>Full Stack Developer</b> skilled in AI, Blockchain & DevOps <br/>
+🌱 <b>Currently Exploring:</b> LLMs, scalable microservices & serverless architecture <br/>
+🚀 <b>Driven by:</b> solving real-world challenges with clean, secure, and intelligent code
+
+</div>
 
 ---
 
