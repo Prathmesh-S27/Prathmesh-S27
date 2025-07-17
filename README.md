@@ -25,7 +25,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Curious+Mind+%7C+Code+Architect+%7C+Cloud+Dreamer+%7C+Problem+Solver" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Curious+Mind+%7C+Code+Architect+%7C+Cloud+Dreamer+%7C+Problem+Solver" />
 
 🎓 <b>Final-year B.Tech IT Student</b> @ Vishwakarma Institute of Technology, Pune <br/>
 💻 <b>Full Stack Developer</b> skilled in AI, Blockchain & DevOps <br/>
