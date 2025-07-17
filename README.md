@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Prathmesh Sonawane 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Engineer+%7C+AI+%7C+Blockchain+%7C+Cloud;Let's+build+impactful+tech+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=IT+Engineer+%7C+AI+%7C+Blockchain+%7C+Cloud;Let's+build+impactful+tech+🚀" />
 </p>
 
 <p align="center">
