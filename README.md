@@ -120,7 +120,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Prathmesh-S27&theme=tokyo-night" />
 </p>
 
 ---
